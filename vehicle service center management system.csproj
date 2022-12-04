@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5E4728A3-D722-4A45-AA16-C74EC2DBCF92}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>vehicle_service_center_management_system</RootNamespace>
+    <AssemblyName>vehicle service center management system</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Accessibility1">
+      <HintPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\Accessibility.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataAccess\Database.cs" />
+    <Compile Include="DataAccess\Entities\BikeAccessorie.cs" />
+    <Compile Include="DataAccess\Entities\Bikeservice.cs" />
+    <Compile Include="DataAccess\Entities\CarAccessorie.cs" />
+    <Compile Include="DataAccess\Entities\Carservice.cs" />
+    <Compile Include="DataAccess\Entities\Customer.cs" />
+    <Compile Include="DataAccess\Entities\Employee.cs" />
+    <Compile Include="DataAccess\Table\BikeAccessories.cs" />
+    <Compile Include="DataAccess\Table\Bikeservices.cs" />
+    <Compile Include="DataAccess\Table\CarAccessories.cs" />
+    <Compile Include="DataAccess\Table\Carservices.cs" />
+    <Compile Include="DataAccess\Table\Customers.cs" />
+    <Compile Include="DataAccess\Table\Employees.cs" />
+    <Compile Include="Presentaion\Accessorieshomefrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentaion\Accessorieshomefrm.Designer.cs">
+      <DependentUpon>Accessorieshomefrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentaion\BikeAccessoriesfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentaion\BikeAccessoriesfrm.Designer.cs">
+      <DependentUpon>BikeAccessoriesfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentaion\Bikeservicesfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentaion\Bikeservicesfrm.Designer.cs">
+      <DependentUpon>Bikeservicesfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentaion\CarAccessoriesfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentaion\CarAccessoriesfrm.Designer.cs">
+      <DependentUpon>CarAccessoriesfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentaion\Carservicesfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentaion\Carservicesfrm.Designer.cs">
+      <DependentUpon>Carservicesfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentaion\Customerfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentaion\Customerfrm.Designer.cs">
+      <DependentUpon>Customerfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentaion\Employesfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentaion\Employesfrm.designer.cs">
+      <DependentUpon>Employesfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentaion\Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentaion\Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentaion\LodingFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentaion\LodingFrm.Designer.cs">
+      <DependentUpon>LodingFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentaion\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentaion\Login.designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentaion\Servicehome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentaion\Servicehome.Designer.cs">
+      <DependentUpon>Servicehome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentaion\Sing_Up.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentaion\Sing_Up.Designer.cs">
+      <DependentUpon>Sing_Up.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Presentaion\Accessorieshomefrm.resx">
+      <DependentUpon>Accessorieshomefrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentaion\BikeAccessoriesfrm.resx">
+      <DependentUpon>BikeAccessoriesfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentaion\Bikeservicesfrm.resx">
+      <DependentUpon>Bikeservicesfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentaion\CarAccessoriesfrm.resx">
+      <DependentUpon>CarAccessoriesfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentaion\Carservicesfrm.resx">
+      <DependentUpon>Carservicesfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentaion\Customerfrm.resx">
+      <DependentUpon>Customerfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentaion\Employesfrm.resx">
+      <DependentUpon>Employesfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentaion\Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentaion\LodingFrm.resx">
+      <DependentUpon>LodingFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentaion\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentaion\Servicehome.resx">
+      <DependentUpon>Servicehome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentaion\Sing_Up.resx">
+      <DependentUpon>Sing_Up.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Accessibility">
+      <Guid>{1EA4DBF0-3C3B-11CF-810C-00AA00389B71}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

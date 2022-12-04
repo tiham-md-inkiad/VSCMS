@@ -1,0 +1,13 @@
+F:\C# project\vehicle service center management system\bin\Release\vehicle service center management system.exe
+F:\C# project\vehicle service center management system\bin\Release\vehicle service center management system.pdb
+F:\C# project\vehicle service center management system\obj\Release\vehicle service center management system.csproj.AssemblyReference.cache
+F:\C# project\vehicle service center management system\obj\Release\vehicle service center management system.csproj.SuggestedBindingRedirects.cache
+F:\C# project\vehicle service center management system\obj\Release\vehicle_service_center_management_system.Presentaion.Customer.resources
+F:\C# project\vehicle service center management system\obj\Release\vehicle_service_center_management_system.Employes.resources
+F:\C# project\vehicle service center management system\obj\Release\vehicle_service_center_management_system.Presentaion.Home.resources
+F:\C# project\vehicle service center management system\obj\Release\vehicle_service_center_management_system.Login.resources
+F:\C# project\vehicle service center management system\obj\Release\vehicle_service_center_management_system.Properties.Resources.resources
+F:\C# project\vehicle service center management system\obj\Release\vehicle service center management system.csproj.GenerateResource.cache
+F:\C# project\vehicle service center management system\obj\Release\vehicle service center management system.csproj.CoreCompileInputs.cache
+F:\C# project\vehicle service center management system\obj\Release\vehicle service center management system.exe
+F:\C# project\vehicle service center management system\obj\Release\vehicle service center management system.pdb

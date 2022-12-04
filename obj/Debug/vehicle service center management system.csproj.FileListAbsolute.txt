@@ -1,0 +1,59 @@
+G:\aiub\semester-6\opp2\vehicle service center management system\bin\Debug\vehicle service center management system.exe
+G:\aiub\semester-6\opp2\vehicle service center management system\bin\Debug\vehicle service center management system.pdb
+G:\aiub\semester-6\opp2\vehicle service center management system\obj\Debug\vehicle service center management system.csproj.AssemblyReference.cache
+G:\aiub\semester-6\opp2\vehicle service center management system\obj\Debug\vehicle service center management system.csproj.SuggestedBindingRedirects.cache
+G:\aiub\semester-6\opp2\vehicle service center management system\obj\Debug\vehicle_service_center_management_system.Login.resources
+G:\aiub\semester-6\opp2\vehicle service center management system\obj\Debug\vehicle service center management system.csproj.GenerateResource.cache
+G:\aiub\semester-6\opp2\vehicle service center management system\obj\Debug\vehicle service center management system.csproj.CoreCompileInputs.cache
+G:\aiub\semester-6\opp2\vehicle service center management system\obj\Debug\vehicle service center management system.exe
+G:\aiub\semester-6\opp2\vehicle service center management system\obj\Debug\vehicle service center management system.pdb
+G:\aiub\semester-6\opp2\vehicle service center management system\obj\Debug\vehicle_service_center_management_system.Properties.Resources.resources
+G:\aiub\semester-6\opp2\vehicle service center management system\obj\Debug\vehicle_service_center_management_system.Presentaion.Customer.resources
+G:\aiub\semester-6\opp2\vehicle service center management system\obj\Debug\vehicle_service_center_management_system.Employes.resources
+G:\aiub\semester-6\opp2\vehicle service center management system\obj\Debug\vehicle_service_center_management_system.Presentaion.Home.resources
+F:\C# project\vehicle service center management system\bin\Debug\vehicle service center management system.exe
+F:\C# project\vehicle service center management system\bin\Debug\vehicle service center management system.pdb
+F:\C# project\vehicle service center management system\obj\Debug\vehicle service center management system.csproj.AssemblyReference.cache
+F:\C# project\vehicle service center management system\obj\Debug\vehicle service center management system.csproj.SuggestedBindingRedirects.cache
+F:\C# project\vehicle service center management system\obj\Debug\vehicle_service_center_management_system.Presentaion.Home.resources
+F:\C# project\vehicle service center management system\obj\Debug\vehicle_service_center_management_system.Login.resources
+F:\C# project\vehicle service center management system\obj\Debug\vehicle_service_center_management_system.Properties.Resources.resources
+F:\C# project\vehicle service center management system\obj\Debug\vehicle service center management system.csproj.GenerateResource.cache
+F:\C# project\vehicle service center management system\obj\Debug\vehicle service center management system.csproj.CoreCompileInputs.cache
+F:\C# project\vehicle service center management system\obj\Debug\vehicle service center management system.exe
+F:\C# project\vehicle service center management system\obj\Debug\vehicle service center management system.pdb
+F:\C# project\vehicle service center management system\obj\Debug\vehicle_service_center_management_system.Presentaion.Servicehome.resources
+F:\C# project\vehicle service center management system\obj\Debug\Interop.Accessibility.dll
+F:\C# project\vehicle service center management system\obj\Debug\vehicle service center management system.csproj.ResolveComReference.cache
+F:\C# project\vehicle service center management system\obj\Debug\vehicle_service_center_management_system.Presentaion.Accessorieshomefrm.resources
+F:\C# project\vehicle service center management system\obj\Debug\vehicle_service_center_management_system.Presentaion.BikeAccessoriesfrm.resources
+F:\C# project\vehicle service center management system\obj\Debug\vehicle_service_center_management_system.Presentaion.Bikeservicesfrm.resources
+F:\C# project\vehicle service center management system\obj\Debug\vehicle_service_center_management_system.Presentaion.CarAccessoriesfrm.resources
+F:\C# project\vehicle service center management system\obj\Debug\vehicle_service_center_management_system.Presentaion.Carservicesfrm.resources
+F:\C# project\vehicle service center management system\obj\Debug\vehicle_service_center_management_system.Customerfrm.resources
+F:\C# project\vehicle service center management system\obj\Debug\vehicle_service_center_management_system.Presentaion.Sing_Up.resources
+F:\C# project\vehicle service center management system\obj\Debug\vehicle_service_center_management_system.Employesfrm.resources
+F:\C# project\vehicle service center management system\obj\Debug\vehicle_service_center_management_system.Presentaion.LodingFrm.resources
+F:\web dev\web dev\website devolopment\vehicle service center management system\bin\Debug\vehicle service center management system.exe
+F:\web dev\web dev\website devolopment\vehicle service center management system\bin\Debug\vehicle service center management system.pdb
+F:\web dev\web dev\website devolopment\vehicle service center management system\obj\Debug\vehicle service center management system.csproj.AssemblyReference.cache
+F:\web dev\web dev\website devolopment\vehicle service center management system\obj\Debug\vehicle service center management system.csproj.SuggestedBindingRedirects.cache
+F:\web dev\web dev\website devolopment\vehicle service center management system\obj\Debug\Interop.Accessibility.dll
+F:\web dev\web dev\website devolopment\vehicle service center management system\obj\Debug\vehicle service center management system.csproj.ResolveComReference.cache
+F:\web dev\web dev\website devolopment\vehicle service center management system\obj\Debug\vehicle_service_center_management_system.Presentaion.Accessorieshomefrm.resources
+F:\web dev\web dev\website devolopment\vehicle service center management system\obj\Debug\vehicle_service_center_management_system.Presentaion.BikeAccessoriesfrm.resources
+F:\web dev\web dev\website devolopment\vehicle service center management system\obj\Debug\vehicle_service_center_management_system.Presentaion.Bikeservicesfrm.resources
+F:\web dev\web dev\website devolopment\vehicle service center management system\obj\Debug\vehicle_service_center_management_system.Presentaion.CarAccessoriesfrm.resources
+F:\web dev\web dev\website devolopment\vehicle service center management system\obj\Debug\vehicle_service_center_management_system.Presentaion.Carservicesfrm.resources
+F:\web dev\web dev\website devolopment\vehicle service center management system\obj\Debug\vehicle_service_center_management_system.Customerfrm.resources
+F:\web dev\web dev\website devolopment\vehicle service center management system\obj\Debug\vehicle_service_center_management_system.Employesfrm.resources
+F:\web dev\web dev\website devolopment\vehicle service center management system\obj\Debug\vehicle_service_center_management_system.Presentaion.Home.resources
+F:\web dev\web dev\website devolopment\vehicle service center management system\obj\Debug\vehicle_service_center_management_system.Presentaion.LodingFrm.resources
+F:\web dev\web dev\website devolopment\vehicle service center management system\obj\Debug\vehicle_service_center_management_system.Login.resources
+F:\web dev\web dev\website devolopment\vehicle service center management system\obj\Debug\vehicle_service_center_management_system.Presentaion.Servicehome.resources
+F:\web dev\web dev\website devolopment\vehicle service center management system\obj\Debug\vehicle_service_center_management_system.Presentaion.Sing_Up.resources
+F:\web dev\web dev\website devolopment\vehicle service center management system\obj\Debug\vehicle_service_center_management_system.Properties.Resources.resources
+F:\web dev\web dev\website devolopment\vehicle service center management system\obj\Debug\vehicle service center management system.csproj.GenerateResource.cache
+F:\web dev\web dev\website devolopment\vehicle service center management system\obj\Debug\vehicle service center management system.csproj.CoreCompileInputs.cache
+F:\web dev\web dev\website devolopment\vehicle service center management system\obj\Debug\vehicle service center management system.exe
+F:\web dev\web dev\website devolopment\vehicle service center management system\obj\Debug\vehicle service center management system.pdb
